@@ -8,17 +8,16 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| ------ | :-----: | :-----: |
-| Monday  | physical | All about Tree, Project Planing |
-| Tuesday | Zoom | create issue and assign them |
-| Wednesday | Zoom | working on issue|
-| Thursday | physical | working on issue|
-| Friday | Zoom | reviewing |
-
-
+| Day       |   How    |     The topic of discussion     |
+| --------- | :------: | :-----------------------------: |
+| Monday    | physical | All about Tree, Project Planing |
+| Tuesday   |   Zoom   |  create issue and assign them   |
+| Wednesday |   Zoom   |        working on issue         |
+| Thursday  | physical |        working on issue         |
+| Friday    |   Zoom   |            reviewing            |
 
 | Wends
+
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
@@ -35,17 +34,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-Rodica | 09 - 17 |  09 - 17 |  09 - 17 | 09 - 17 | 09 - 17 |
-Dnyandeo | 09 - 17 | 09 - 17 | 09 - 17 | 09 - 17 | 09 - 17 |
-Sowmya | 09 - 17 | 09 - 17  | 09 - 17 | 09 - 17 | 09 - 17 |
+| Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| -------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _name_   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Rodica   | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Dnyandeo | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Sowmya   | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+
 ### How many hours everyone has per day
 
-- name: Dnyandeo _6h_; 
+- name: Dnyandeo _6h_;
 - name: Rodica _6h_;
 - name: Sowmya _6h_;
+
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
