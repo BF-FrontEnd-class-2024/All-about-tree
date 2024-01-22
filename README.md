@@ -1,23 +1,19 @@
 # All About Tree
+
 > Simple website to give you information about trees.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](# All About Tree)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
 
 ## General info
 
@@ -28,11 +24,13 @@
 ![Example screenshot](./planning/screenshot.jpg)
 
 ## Technologies
+
 - VSC code
 - HTML
 - CSS
 
 ## Setup
+
 - Clone the repo
 
 - `npm run install`
@@ -88,4 +86,5 @@ this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 If the linting fails, you will not be able to merge the PR. You can double check
 that your code will pass before pushing by running the code quality scripts
 locally.
+
 </details>
