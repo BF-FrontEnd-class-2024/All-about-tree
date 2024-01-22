@@ -2,16 +2,12 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> We decided to have a simple page, we didn't make plan colors or anything else.
 
 ---
 
-## Wireframe(s)
+## Wireframe
 
-> Include your wireframe(s) and link to wireframe
+> Here is our Design ![wireframe](../public/design.png)
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
