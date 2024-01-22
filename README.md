@@ -1,24 +1,19 @@
-# Name of project
+# All About Tree
 
-> A longer description
+> Simple website to give you information about trees.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](# All About Tree)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
 
 ## General info
 
@@ -30,47 +25,28 @@
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- Clone the repo
 
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
+- `npm run install`
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
-
-To-do list:
-
--
--
+- Title
+- Navigation
+- Hero Section
+- information about tree
 
 ## Status
 
 Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
 
 ## Instructions for use
 
@@ -110,19 +86,5 @@ this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 If the linting fails, you will not be able to merge the PR. You can double check
 that your code will pass before pushing by running the code quality scripts
 locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
 
 </details>
