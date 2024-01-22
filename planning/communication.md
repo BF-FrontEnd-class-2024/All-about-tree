@@ -9,18 +9,25 @@
 ## Communication Schedule
 
 | Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| ------ | :-----: | :-----: |
+| Monday  | physical | All about Tree, Project Planing |
+| Tuesday | Zoom | create issue and assign them |
+| Wednesday | Zoom | working on issue|
+| Thursday | physical | working on issue|
+| Friday | Zoom | reviewing |
 
+
+
+| Wends
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: All day
+- **Pull Requests**: All day
+- **GitHub Discussions** All day
+- **Slack/Discord**: All day
+- **Video Calls**: All day
 
 ---
 
@@ -31,15 +38,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-
+Rodica | 09 - 17 |  09 - 17 |  09 - 17 | 09 - 17 | 09 - 17 |
+Dnyandeo | 09 - 17 | 09 - 17 | 09 - 17 | 09 - 17 | 09 - 17 |
+Sowmya | 09 - 17 | 09 - 17  | 09 - 17 | 09 - 17 | 09 - 17 |
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
-
+- name: Dnyandeo _6h_; 
+- name: Rodica _6h_;
+- name: Sowmya _6h_;
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
