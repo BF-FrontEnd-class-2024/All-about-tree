@@ -17,7 +17,7 @@
 
 ## General info
 
-> A short description
+> A simple website about trees.
 
 ## Screenshots
 
