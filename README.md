@@ -21,7 +21,7 @@
 
 ## Screenshots
 
-![Example screenshot](../Grope4-All-about-tree/public/design-review.png)
+![Example screenshot](./public/design-review.png)
 
 ## Technologies
 
